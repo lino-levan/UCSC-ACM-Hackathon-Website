@@ -73,10 +73,10 @@ export default function Home() {
             </p>
             <div className="flex flex-col items-center">
               <a href="https://aops.com">
-                <img src="/images/sponsors/aops.jpeg" />
+                <img src="/images/sponsors/aops.png" />
               </a>
               <a href="https://www.sashido.io/">
-                <img src="/images/sponsors/sashido.jpeg" />
+                <img src="/images/sponsors/sashido.png" />
               </a>
             </div>
           </div>
