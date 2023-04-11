@@ -71,25 +71,27 @@ export default function Home() {
               We'd like to give a huge thanks to our sponsors for making this
               year's hackathon possible!
             </p>
-            <div className="flex flex-col gap-2 items-center max-w-lg">
-              <a href="https://aops.com">
-                <img src="/images/sponsors/aops.png" />
-              </a>
-              <a href="https://www.sashido.io">
-                <img src="/images/sponsors/sashido.png" />
-              </a>
-              <a href="https://www.wolfram.com">
-                <img src="/images/sponsors/wolfram.png" />
-              </a>
-              <a href="https://www.leading-learners.com">
-                <img src="/images/sponsors/leading-learners.webp" />
-              </a>
-              <a href="https://www.desmos.com">
-                <img src="/images/sponsors/desmos.webp" />
-              </a>
-              <a href="https://cookiedb.com">
-                <img src="/images/sponsors/cookiedb.png" />
-              </a>
+            <div className="w-full flex justify-center">
+              <div className="flex flex-col gap-4 items-center max-w-lg">
+                <a href="https://aops.com">
+                  <img src="/images/sponsors/aops.png" />
+                </a>
+                <a href="https://www.sashido.io">
+                  <img src="/images/sponsors/sashido.png" />
+                </a>
+                <a href="https://www.wolfram.com">
+                  <img src="/images/sponsors/wolfram.png" />
+                </a>
+                <a href="https://www.leading-learners.com">
+                  <img src="/images/sponsors/leading-learners.webp" />
+                </a>
+                <a href="https://www.desmos.com">
+                  <img src="/images/sponsors/desmos.webp" />
+                </a>
+                <a href="https://cookiedb.com">
+                  <img src="/images/sponsors/cookiedb.png" />
+                </a>
+              </div>
             </div>
           </div>
         </div>
