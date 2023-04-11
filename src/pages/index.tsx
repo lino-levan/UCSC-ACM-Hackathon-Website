@@ -75,8 +75,20 @@ export default function Home() {
               <a href="https://aops.com">
                 <img src="/images/sponsors/aops.png" />
               </a>
-              <a href="https://www.sashido.io/">
+              <a href="https://www.sashido.io">
                 <img src="/images/sponsors/sashido.png" />
+              </a>
+              <a href="https://www.wolfram.com">
+                <img src="/images/sponsors/wolfram.png" />
+              </a>
+              <a href="https://www.leading-learners.com">
+                <img src="/images/sponsors/leading-learners.webp" />
+              </a>
+              <a href="https://www.desmos.com">
+                <img src="/images/sponsors/desmos.webp" />
+              </a>
+              <a href="https://cookiedb.com">
+                <img src="/images/sponsors/cookiedb.png" />
               </a>
             </div>
           </div>
