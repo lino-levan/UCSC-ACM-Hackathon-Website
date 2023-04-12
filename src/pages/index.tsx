@@ -48,11 +48,11 @@ export default function Home() {
               <div className="flex flex-col items-center gap-4">
                 <ArrowButton
                   text="I'm interested"
-                  link="https://forms.gle/sq2G1Ga4pcDgrrAZ6"
+                  link="https://forms.gle/3BucxBSo2u9JGnMeA"
                 />
                 <ArrowButton
-                  text="I want to be a mentor"
-                  link="https://forms.gle/sq2G1Ga4pcDgrrAZ6"
+                  text="I'm confused"
+                  link="https://docs.google.com/document/d/1SGO2PNgb6kVti7tRsKwAwTuuforlvzyYxPmu59Bjdfk/edit?usp=sharing"
                 />
               </div>
             </div>
